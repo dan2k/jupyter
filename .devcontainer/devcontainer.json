@@ -12,9 +12,11 @@
     },
     "vscode": {
       "extensions": [
-        "ms-toolsai.jupyter",
-        "ms-python.python"
-      ]
+		"ms-toolsai.jupyter",
+		"ms-python.python",
+		"donjayamanne.python-extension-pack",
+		"DiogoNolasco.pyinit"
+	]
     }
   }
 }
