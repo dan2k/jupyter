@@ -5,3 +5,8 @@ if a>b:
 else:
     max=b
 print("max value= ",max)
+
+# My first python program
+print("Hello Python")
+name = input("What is your name? ")
+print("Hi %s" %name)
